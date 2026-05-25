@@ -52,3 +52,32 @@ pagina web
 
 </body>
 </html>
+<h1>Meus sites favoritos: Evandro Vinicius</h1>
+
+<a href="https://google.com">
+    <img src="google.jpg" width="200">
+</a>
+
+<hr>
+
+<a href="https://youtube.com">
+    <img src="youtube.jpg" width="200">
+</a>
+
+<hr>
+
+<a href="https://github.com">
+    <img src="github.jpg" width="200">
+</a>
+
+<hr>
+
+<a href="https://wikipedia.org">
+    <img src="wikipedia.jpg" width="200">
+</a>
+
+<hr>
+
+<a href="https://developer.mozilla.org/">
+    <img src="mdn.jpg" width="200">
+</a>
